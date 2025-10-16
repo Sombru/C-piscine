@@ -1,4 +1,2 @@
 # C-piscine
-42-Prague piscine projects
-no prior codeing experience
-(I am a failure)
+42-Prague piscine projects with no prior coding experience
